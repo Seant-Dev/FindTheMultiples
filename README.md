@@ -19,6 +19,7 @@ python3 BusquedaDeMultiplos.py
 Inmediatamente se desplegara el programa y ahi podras ingresar los datos necesarios para calcular los multiplos.
 
 Recuerda:
-*El rango Menor debe ser menor que el Mayor
-El rango Mayor debe ser mayor que el Menor
-Los rangos y el numero deben de ser numeros, de lo contrario al presionar `Calcular Multiplos` los datos se borraran automaticamente hasta que s eingresen numeros validos
+
+- El rango Menor debe ser menor que el Mayor
+- El rango Mayor debe ser mayor que el Menor
+- Los rangos y el numero deben de ser numeros, de lo contrario al presionar `Calcular Multiplos` los datos se borraran automaticamente hasta que s eingresen numeros validos
