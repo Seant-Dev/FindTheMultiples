@@ -1,4 +1,4 @@
-# FindTheMultiples Por seant
+## FindTheMultiples Por seant
 Este programa con interface grafica, ayuda a encontrar los multiplos de un numero entre el rango especificado por el usuario.
 
 Para su desarrollo se ha utilizado Python Python 3.8.3
@@ -26,7 +26,7 @@ Recuerda:
 - El rango Mayor debe ser mayor que el Menor
 - Los rangos y el numero deben de ser numeros, de lo contrario al presionar `Calcular Multiplos` los datos se borraran automaticamente hasta que s eingresen numeros validos
 
-#Capturas de ejecucion
+# Capturas de ejecucion
 
 ![Valores validos](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2013-34-11.png)
 ![Limites no validos](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2013-34-44.png)
