@@ -18,8 +18,16 @@ python3 BusquedaDeMultiplos.py
 
 Inmediatamente se desplegara el programa y ahi podras ingresar los datos necesarios para calcular los multiplos.
 
+![Principal](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2014-35-37.png)
+
 Recuerda:
 
 - El rango Menor debe ser menor que el Mayor
 - El rango Mayor debe ser mayor que el Menor
 - Los rangos y el numero deben de ser numeros, de lo contrario al presionar `Calcular Multiplos` los datos se borraran automaticamente hasta que s eingresen numeros validos
+
+#Capturas de ejecucion
+
+![Valores validos](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2013-34-11.png)
+![Limites no validos](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2013-34-44.png)
+![Valores no validos](https://raw.githubusercontent.com/seant-13/FindTheMultiples/master/Documentacion/Captura%20de%20pantalla%20de%202020-07-28%2013-35-00.png)
